@@ -1,7 +1,7 @@
 version: "1.0.0"
 description: "TM1637 7-segment LED display driver for ESP-IDF"
 url: https://github.com/heronet/esp-idf-tm1637
-documentation: https://github.com/heronet/esp-idf-tm1637/blob/main/README.md
+documentation: https://github.com/heronet/esp-idf-tm1637/blob/master/README.md
 repository: https://github.com/heronet/esp-idf-tm1637
 issues: https://github.com/heronet/esp-idf-tm1637/issues
 
@@ -10,8 +10,7 @@ dependencies:
     version: ">=4.4"
 
 maintainers:
-  - name: Siratul Islam
-    email: sirat4757@gmail.com
+  - Siratul Islam <sirat4757@gmail.com>
 
 tags:
   - display
