@@ -1,4 +1,4 @@
-version: "1.0.0"
+version: "1.0.1"
 description: "TM1637 7-segment LED display driver for ESP-IDF"
 url: https://github.com/heronet/esp-idf-tm1637
 documentation: https://github.com/heronet/esp-idf-tm1637/blob/master/README.md
